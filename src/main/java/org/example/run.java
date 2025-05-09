@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.Collections;
 import java.util.Comparator;
 
-class Main {
+class run {
 
     public static boolean checkCapacity(int maxCapacity, List<Map<String, String>> guests) {
         List<Event> events = new ArrayList<>();
